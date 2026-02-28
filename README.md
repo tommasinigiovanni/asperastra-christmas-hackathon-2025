@@ -8,7 +8,7 @@
 
 Una **Single Page Application** che simula un'interfaccia ChatGPT per presentazioni interattive dal vivo. Sviluppata per guidare i team durante il **Christmas Hackathon AsperAstra 2025** con metodologia **Pretotyping**.
 
-🔗 **Repository:** https://github.com/tommasinigiovanni/asperastra-christman-hackathon-2025
+🔗 **Repository:** https://github.com/tommasinigiovanni/asperastra-christmas-hackathon-2025
 
 📄 **Scarica il PDF:** [2025-12_AI-Mentor_Hackathon-AsperAstra.pdf](./2025-12_AI-Mentor_Hackathon-AsperAstra.pdf)
 
